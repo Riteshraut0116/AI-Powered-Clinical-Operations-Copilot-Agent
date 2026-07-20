@@ -633,7 +633,6 @@ Provide next-step guidance for care coordination.
 ---
 
 🌟 **Built using Microsoft Copilot Studio, Azure OpenAI, Azure AI Search, Azure Functions, Azure Logic Apps, and Dataverse to showcase Responsible AI in Healthcare.**
-``
 
 ---
 
