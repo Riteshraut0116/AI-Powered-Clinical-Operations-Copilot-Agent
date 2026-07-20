@@ -519,7 +519,7 @@ The AI-Powered Clinical Operations Copilot is accessible through both **Microsof
 
 ## 💬 Microsoft Teams Agent Experience
 
-![The Clinical Operations Copilot deployed in **Microsoft Teams** enables clinicians and operational users to interact directly with the AI assistant from their collaboration workspace.](AI-Powered Clinical Operations Copilot Agent files/screenshots/sample1.png)
+The Clinical Operations Copilot deployed in **Microsoft Teams** enables clinicians and operational users to interact directly with the AI assistant from their collaboration workspace.
 
 ### Key Capabilities
 
@@ -533,13 +533,15 @@ The AI-Powered Clinical Operations Copilot is accessible through both **Microsof
 
 ✅ Natural Language Interactions
 
+(AI-Powered-Clinical-Operations-Copilo -Agent-files/screenshots/sample1.png)
+
 *Clinical Operations Copilot Agent running inside Microsoft Teams.*
 
 ---
 
 ## 🤖 Microsoft Copilot Chat Experience
 
-![The Clinical Operations Copilot is also available through **Microsoft Copilot Chat**, providing enterprise-grade AI assistance with contextual retrieval powered by Azure AI Search and Azure OpenAI.](AI-Powered Clinical Operations Copilot Agent files/screenshots/sample2.png)
+The Clinical Operations Copilot is also available through **Microsoft Copilot Chat**, providing enterprise-grade AI assistance with contextual retrieval powered by Azure AI Search and Azure OpenAI.
 
 ### Key Capabilities
 
@@ -553,7 +555,7 @@ The AI-Powered Clinical Operations Copilot is accessible through both **Microsof
 
 ✅ Workflow Automation Guidance
 
-screenshots/sample2.png
+(AI-Powered-Clinical-Operations-Copilo -Agent-files/screenshots/sample2.png)
 
 *Clinical Operations Copilot Agent running within Microsoft Copilot Chat.*
 
