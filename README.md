@@ -459,6 +459,184 @@ AI-Powered-Clinical-Operations-Copilot-Agent/
 
 ---
 
+# 🎬 Live Demo & Agent Access
+
+Experience the AI-Powered Clinical Operations Copilot in action through Microsoft Copilot Studio and Microsoft Teams.
+
+---
+
+## 🤖 Clinical Operations Copilot Agent
+
+Access the deployed Clinical Operations Copilot Agent:
+
+🔗 **Agent Access**
+[Launch Clinical Operations Copilot](https://teams.microsoft.com/l/app/?titleId=T_ccdd8769-3f01-6b12-2e88-7a3d86746ed5)
+
+### Supported Use Cases
+
+✅ Patient Summary Generation
+
+✅ Follow-Up Recommendations
+
+✅ Clinical Workflow Assistance
+
+✅ Care Coordination Support
+
+✅ Operational Guidance & Insights
+
+---
+
+## 🎥 Demo Video
+
+Watch the complete end-to-end demonstration of the solution:
+
+▶️ **Demo Recording**
+[Watch Demo Video](https://cognizantonline-my.sharepoint.com/:v:/g/personal/2301544_cognizant_com/IQA2p8djx9izQ7ZzcmY6N0jYAYnWrt5FVx4eiF2AkCXvmJY?e=N48KED)
+
+### Demo Walkthrough Covers
+
+✅ Copilot Studio Agent Interaction
+
+✅ Patient Summary Generation
+
+✅ Azure AI Search (RAG) Retrieval
+
+✅ Azure OpenAI Clinical Insights
+
+✅ Workflow Automation
+
+✅ Care Coordination Scenarios
+
+✅ End-to-End Architecture Demonstration
+
+---
+
+# 📸 Demo Screenshots
+
+The AI-Powered Clinical Operations Copilot is accessible through both **Microsoft Teams** and **Microsoft Copilot Chat**, providing a seamless healthcare AI experience powered by Microsoft Copilot Studio, Azure OpenAI, and Azure AI Search (RAG).
+
+---
+
+## 💬 Microsoft Teams Agent Experience
+
+The Clinical Operations Copilot deployed in **Microsoft Teams** enables clinicians and operational users to interact directly with the AI assistant from their collaboration workspace.
+
+### Key Capabilities
+
+✅ Patient Summary Generation
+
+✅ Healthcare Knowledge Retrieval
+
+✅ Operational Workflow Assistance
+
+✅ Care Coordination Support
+
+✅ Natural Language Interactions
+
+screenshots/sample1.png
+
+*Clinical Operations Copilot Agent running inside Microsoft Teams.*
+
+---
+
+## 🤖 Microsoft Copilot Chat Experience
+
+The Clinical Operations Copilot is also available through **Microsoft Copilot Chat**, providing enterprise-grade AI assistance with contextual retrieval powered by Azure AI Search and Azure OpenAI. 
+
+### Key Capabilities
+
+✅ AI-Powered Clinical Summaries
+
+✅ Retrieval-Augmented Generation (RAG)
+
+✅ Structured Healthcare Insights
+
+✅ Follow-Up Recommendations
+
+✅ Workflow Automation Guidance
+
+screenshots/sample2.png
+
+*Clinical Operations Copilot Agent running within Microsoft Copilot Chat.*
+
+---
+
+## 🚀 Multi-Channel Access
+
+```text
+Clinician / Operations User
+          │
+          ├── Microsoft Teams
+          │
+          └── Microsoft Copilot Chat
+                     │
+                     ▼
+      Clinical Operations Copilot
+                     │
+                     ▼
+      Azure OpenAI + Azure AI Search
+                     │
+                     ▼
+         Healthcare Insights & Automation
+```
+
+✅ Consistent Experience Across Channels
+
+✅ Enterprise Security & Compliance
+
+✅ Faster User Adoption
+
+✅ Improved Clinician Productivity
+
+✅ Secure AI-Powered Healthcare Assistance
+
+---
+
+# 🚀 Try It Yourself
+
+### Sample Prompt 1
+
+```text
+Summarize patient history and recent visits.
+```
+
+### Sample Prompt 2
+
+```text
+Suggest follow-up actions for this patient.
+```
+
+### Sample Prompt 3
+
+```text
+Create operational tasks based on clinical notes.
+```
+
+### Sample Prompt 4
+
+```text
+Provide next-step guidance for care coordination.
+```
+
+---
+
+## 💼 Business Value Demonstrated
+
+| Capability | Benefit |
+|------------|----------|
+| Clinical Summary Generation | Reduced administrative effort |
+| Context Retrieval | Faster access to patient insights |
+| Task Automation | Reduced manual activities |
+| Care Coordination | Improved collaboration |
+| Workflow Assistance | Increased operational efficiency |
+
+---
+
+🌟 **Built using Microsoft Copilot Studio, Azure OpenAI, Azure AI Search, Azure Functions, Azure Logic Apps, and Dataverse to showcase Responsible AI in Healthcare.**
+``
+
+---
+
 # 👥 Team - Caliber Collective
 
 | Member | Role |
@@ -469,8 +647,6 @@ AI-Powered-Clinical-Operations-Copilot-Agent/
 | Samiksha Dahule | Healthcare Domain & Workflow Specialist |
 | Kanav Sharma | Frontend & Copilot Experience Designer |
 | Abhishek Yadav | Testing, QA, Documentation & Delivery |
-
-Source: Group_149_Caliber Collective_2301544.pdf [1](https://cognizantonline-my.sharepoint.com/personal/2301544f)
 
 ---
 
