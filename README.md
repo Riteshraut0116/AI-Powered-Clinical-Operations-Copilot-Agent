@@ -533,7 +533,7 @@ The Clinical Operations Copilot deployed in **Microsoft Teams** enables clinicia
 
 ✅ Natural Language Interactions
 
-![Microsoft Teams Agent](AI-Powered-Clinical-Operations-Copilo -Agent-files/screenshots/sample1.png)
+![Microsoft Teams Agent](AI-Powered-Clinical-Operations-Copilot-Agent-files/screenshots/sample1.png)
 
 *Clinical Operations Copilot Agent running inside Microsoft Teams.*
 
@@ -555,7 +555,7 @@ The Clinical Operations Copilot is also available through **Microsoft Copilot Ch
 
 ✅ Workflow Automation Guidance
 
-![Microsoft Copilot Agent](AI-Powered-Clinical-Operations-Copilo -Agent-files/screenshots/sample2.png)
+![Microsoft Copilot Agent](AI-Powered-Clinical-Operations-Copilot-Agent-files/screenshots/sample2.png)
 
 *Clinical Operations Copilot Agent running within Microsoft Copilot Chat.*
 
